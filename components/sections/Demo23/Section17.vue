@@ -14,7 +14,7 @@
                                 <p class="p-md mb-0">Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna cursus</p>
                                 <!-- Link -->
                                 <div class="txt-block-tra-link mt-15">
-                                    <NuxtLink to="/pricing-1" class="tra-link ico-20 color--theme"> Discover our pricing <span class="flaticon-next"></span> </NuxtLink>
+                                    <NuxtLink to="/pricing" class="tra-link ico-20 color--theme"> Discover our pricing <span class="flaticon-next"></span> </NuxtLink>
                                 </div>
                             </div>
                         </div>

@@ -23,7 +23,7 @@
                     <!-- MEGAMENU FOR SERVICES WITH FOUR COLUMNS -->
                     <li aria-haspopup="true" class="mg_link" :class="{ open: isOpen[1] }">
                         <span class="wsmenu-click" @click="toggle(1)"><i class="wsmenu-arrow"></i></span>
-                        <NuxtLink to="/#" class="h-link">Services <span class="wsarrow"></span></NuxtLink>
+                        <NuxtLink to="#" class="h-link">Services <span class="wsarrow"></span></NuxtLink>
                         <div class="wsmegamenu w-75 clearfix">
                             <div class="container">
                                 <div class="row">

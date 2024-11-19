@@ -11,7 +11,7 @@
                                 <!-- Title -->
                                 <h2 class="s-45 w-700">Getting started with Upplinko today!</h2>
                                 <!-- Text -->
-                                <p class="p-lg">It’s easy to get started with Upplinko. Simply sign up, choose the plan that best suits your business needs, and gain access to powerful tools for web design, automation, and marketing. Our intuitive platform ensures you can start streamlining your processes and reaching your audience right away. Let's build something great together!</p>
+                                <p class="p-lg">It’s easy to get started with Upplinko. Simply sign up, choose the plan that best suits your business needs, and gain access to powerful tools for web design, automation, and marketing.</p>
                                 <!-- Button -->
                                 <a href="#" class="btn r-04 btn--theme hover--tra-white" data-bs-toggle="modal" data-bs-target="#modal-3">Get srarted - it's free</a>
                             </div>

@@ -10,7 +10,7 @@
                 <div class="bg-img rounded">
                     <div class="overlay-light">
                         <div class="modal-img text-center">
-                            <NuxtLink tp="/pricing-1">
+                            <NuxtLink tp="/pricing">
                                 <img class="img-fluid" src="/assets/images/modal-2-img.jpg" alt="modal-image" />
                             </NuxtLink>
                         </div>

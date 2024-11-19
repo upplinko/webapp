@@ -23,7 +23,7 @@
                                 <p><NuxtLink to="/about">About Us</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/blog">Blog</NuxtLink></p>
+                                <p><NuxtLink to="/about">Blog</NuxtLink></p>
                             </li>
                             <li>
                                 <p><NuxtLink to="/reviews">Testimmonials</NuxtLink></p>

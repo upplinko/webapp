@@ -118,7 +118,7 @@ export default {
 <style scoped>
 /* Hero Title Font Size Adjustment */
 .hero-title {
-    font-size: 48px; /* Smaller size for improved readability */
+    font-size: 40px; /* Smaller size for improved readability */
     line-height: 1.2; /* Adjust line height for better spacing */
 }
 
