@@ -1,4 +1,3 @@
-// No need to import defineNuxtConfig for Nuxt 3
 import { resolve } from "path";
 
 export default defineNuxtConfig({
@@ -54,5 +53,10 @@ export default defineNuxtConfig({
             }
         ],
         "nuxt-swiper"
-    ]
+    ],
+    nitro: {
+        output: {
+            publicDir: './dist/' // Ensure this matches your deployment configuration
+        }
+    }
 });
