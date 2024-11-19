@@ -24,7 +24,11 @@ jobs:
       - name: Generate static site
         run: npm run generate  # Generate the static version of your site
 
-      - name: Deploy to Hostinger (via FTP or SSH)
-        run: |
-          # Add your deployment steps here
-          # For example, using FTP or SSH to upload the generated files
+      - name: Deploy to Hostinger via FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        with:
+          ftp-server: ${{ secrets.FTP_HOST }}
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: './dist'  # The directory where the generated static files are located
+          remote-dir: ${{ secrets.FTP_TARGET_DIR }}  # The target directory on your server
