@@ -29,7 +29,7 @@
                                 <div class="row">
                                     <!-- Column 1: Web Design & Development -->
                                     <ul class="col-md-12 col-lg-3 link-list">
-                                        <li><NuxtLink to="/demo-17">Web </NuxtLink></li>
+                                        <li><NuxtLink to="/demo-17">Websites </NuxtLink></li>
                                         <li><NuxtLink to="/demo-11">Landing Pages</NuxtLink></li>
                                         <li><NuxtLink to="/demo-17">E-commerce Stores</NuxtLink></li>
                                         <li><NuxtLink to="/demo-17">Custom Stack</NuxtLink></li>
