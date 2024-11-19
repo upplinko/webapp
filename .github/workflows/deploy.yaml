@@ -1,0 +1,30 @@
+name: Deploy Static Site
+
+on:
+  push:
+    branches:
+      - main  # Trigger the workflow when changes are pushed to the "main" branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu for the workflow
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # Checkout the latest code from the repository
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Set the Node.js version for your project
+
+      - name: Install dependencies
+        run: npm install  # Install the dependencies for your Nuxt project
+
+      - name: Generate static site
+        run: npm run generate  # Generate the static version of your site
+
+      - name: Deploy to Hostinger (via FTP or SSH)
+        run: |
+          # Add your deployment steps here
+          # For example, using FTP or SSH to upload the generated files
