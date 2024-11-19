@@ -3,6 +3,7 @@
         <img class="img-fluid" src="/assets/images/up_arrow.svg" alt="brand-logo" />
     </span>
 </template>
+
 <script>
 export default {
     data() {
@@ -30,12 +31,13 @@ export default {
     }
 };
 </script>
+
 <style lang="scss">
 .go-to-top {
     display: block;
     position: fixed;
     bottom: -10px;
-    right: 30px;
+    left: 30px; /* Change from 'right' to 'left' */
     width: 48px;
     height: 48px;
     line-height: 45px;

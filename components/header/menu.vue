@@ -3,18 +3,18 @@
         <div class="wsmainwp clearfix">
             <!-- HEADER BLACK LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/demo-3" class="logo-black"><img src="/assets/images/logo-pink.png" alt="logo" /></NuxtLink>
+                <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-blue.png" alt="logo" /></NuxtLink>
             </div>
             <!-- HEADER WHITE LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/demo-3" class="logo-white"><img src="/assets/images/logo-white.png" alt="logo" /></NuxtLink>
+                <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-white.png" alt="logo" /></NuxtLink>
             </div>
             <!-- MAIN MENU -->
             <nav class="wsmenu clearfix">
                 <ul class="wsmenu-list nav-theme">
                     <!-- SIMPLE NAVIGATION LINK FOR HOME WITHOUT DROPDOWN ICON AND MEGA MENU -->
                     <li class="nl-simple" aria-haspopup="true">
-                        <NuxtLink to="/demo-3" class="h-link">Home</NuxtLink>
+                        <NuxtLink to="/" class="h-link">Home</NuxtLink>
                     </li>
                     
                     <!-- SIMPLE NAVIGATION LINK -->

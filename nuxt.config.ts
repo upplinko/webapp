@@ -9,7 +9,12 @@ export default defineNuxtConfig({
         head: {
             meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
             title: "Upplinko - Design | Marketing | Automation",
-            script: []
+            script: [
+                {
+                    src: "//code.tidio.co/a3hylpjiy1yrc5zqb3lr9hunf7asuvfl.js",
+                    async: true
+                }
+            ]
         }
     },
     css: [

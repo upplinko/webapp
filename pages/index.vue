@@ -1,34 +1,32 @@
 <template>
-    <div>     
-        <SectionsDemo1Section1 />
-        <SectionsDemo1Section2 />
-        <SectionsDemo1Section3 />
-        <SectionsDemo1Section4 />
-        <SectionsDemo1Section5 />
-        <SectionsDemo1Section6 />
-        <SectionsDemo1Section7 />
-        <SectionsDemo1Section8 />
-        <SectionsDemo1Section9 />
-        <SectionsDemo1Section10 />
-        <SectionsDemo1Section10 />
-        <SectionsDemo1Section11 />
-        <SectionsDemo1Section12 />
-        <SectionsDemo1Section13 />
-        <SectionsDemo1Section14 />
-        <SectionsDemo1Section15 />
-        <SectionsDemo1Section16 />
-        <SectionsDemo1Section17 />
-        <SectionsDemo1Section18 />
-        <SectionsDemo1Section19 />
-        <SectionsDemo1Section20 />
-        <SectionsDemo1Section21 />
+    <div>
+        <SectionsDemo3Section1 />
+        <SectionsDemo3Section2 />
+        <SectionsDemo3Section3 />
+        <SectionsDemo3Section4 />
+        <SectionsDemo3Section5 />
+        <SectionsDemo3Section6 />
+        <SectionsDemo3Section7 />
+        <SectionsDemo3Section8 />
+        <SectionsDemo3Section9 />
+        <SectionsDemo3Section10 />
+        <SectionsDemo3Section11 />
+        <SectionsDemo3Section12 />
+        <SectionsDemo3Section13 />
+        <SectionsDemo3Section14 />
+        <SectionsDemo3Section15 />
+        <SectionsDemo3Section16 />
+        <SectionsDemo3Section17 />
+        <SectionsDemo3Section18 />
+        <SectionsDemo3Section19 />
+        <SectionsDemo3Section20 />
     </div>
 </template>
 
 <script setup>
     useHead({
         bodyAttrs: {
-            class: "navbar-light"
+            class: "navbar-light scheme-blue"
         },
     })
 </script>
