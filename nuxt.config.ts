@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     ],
     nitro: {
         output: {
-            publicDir: './dist/' // Ensure this matches your deployment configuration
+            publicDir: './output/' // Ensure this matches your deployment configuration
         }
     }
 });
