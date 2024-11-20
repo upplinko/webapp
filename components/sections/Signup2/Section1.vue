@@ -66,10 +66,10 @@
                                     <h2 class="s-48 w-700">Create</h2>
                                     <h2 class="s-48 w-700">an account</h2>
                                     <!-- Text -->
-                                    <p class="p-md mt-25">Integer congue sagittis and velna augue egestas magna suscipit purus aliquam</p>
+                                    <p class="p-md mt-25">Signup today to claim upto 50% off on your first order.</p>
                                     <!-- Copyright -->
                                     <div class="register-page-copyright">
-                                        <p class="p-sm">&copy; 2024 Martex. <span>All Rights Reserved</span></p>
+                                        <p class="p-sm">&copy; 2024 Upplinko. <span>All Rights Reserved</span></p>
                                     </div>
                                 </div>
                             </div>
