@@ -6,9 +6,9 @@
                 <div class="col-md-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Automate your workflow with our integrations</h2>
+                        <h2 class="s-50 w-700">Automate Your Workflow with Our Integrations</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Integrate seamlessly with the tools you already use and streamline your business operations for maximum efficiency.</p>
                     </div>
                 </div>
             </div>
@@ -27,11 +27,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Zapier</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Automate repetitive tasks and integrate hundreds of apps effortlessly to boost productivity.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #1 -->
+                    <!-- END TOOL #1 -->
                     <!-- TOOL #2 -->
                     <div class="col">
                         <a href="#" class="in_tool it-2 r-12 mb-30 wow fadeInUp">
@@ -44,11 +44,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Analytics</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Gain valuable insights into your website traffic and automate reporting with powerful analytics tools.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #2 -->
+                    <!-- END TOOL #2 -->
                     <!-- TOOL #3 -->
                     <div class="col">
                         <a href="#" class="in_tool it-3 r-12 mb-30 wow fadeInUp">
@@ -61,11 +61,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Amplitude</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Track user behavior and optimize your digital products for better engagement and results.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #3 -->
+                    <!-- END TOOL #3 -->
                     <!-- TOOL #4 -->
                     <div class="col">
                         <a href="#" class="in_tool it-4 r-12 mb-30 wow fadeInUp">
@@ -77,12 +77,12 @@
                             </div>
                             <!-- Text -->
                             <div class="in_tool-txt">
-                                <h6 class="s-20 w-700">Hubspot</h6>
-                                <p class="p-sm">Share findings</p>
+                                <h6 class="s-20 w-700">HubSpot</h6>
+                                <p class="p-sm">Automate marketing tasks, manage leads, and track sales pipelines all in one place.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #4 -->
+                    <!-- END TOOL #4 -->
                     <!-- TOOL #5 -->
                     <div class="col">
                         <a href="#" class="in_tool it-5 r-12 mb-30 wow fadeInUp">
@@ -95,11 +95,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">MailChimp</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Run automated email marketing campaigns and engage your customers with personalized content.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #5 -->
+                    <!-- END TOOL #5 -->
                     <!-- TOOL #6 -->
                     <div class="col">
                         <a href="#" class="in_tool it-6 r-12 mb-30 wow fadeInUp">
@@ -112,14 +112,14 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Slack</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Simplify team communication and automate notifications to stay in the loop effortlessly.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #6 -->
+                    <!-- END TOOL #6 -->
                     <!-- TOOL #7 -->
                     <div class="col">
-                        <a href="#" class="in_tool it-7 r-12 wow fadeInUp">
+                        <a href="#" class="in_tool it-7 r-12 mb-30 wow fadeInUp">
                             <!-- Icon -->
                             <div class="in_tool-logo-wrap">
                                 <div class="in_tool-logo ico-60">
@@ -129,14 +129,14 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Dropbox</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Store and share files securely, with automated backup and sync across your devices.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #7 -->
+                    <!-- END TOOL #7 -->
                     <!-- TOOL #8 -->
                     <div class="col">
-                        <a href="#" class="in_tool it-8 r-12 wow fadeInUp">
+                        <a href="#" class="in_tool it-8 r-12 mb-30 wow fadeInUp">
                             <!-- Icon -->
                             <div class="in_tool-logo-wrap">
                                 <div class="in_tool-logo ico-60">
@@ -146,14 +146,14 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Trello</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Manage projects with ease and automate task tracking for more efficient team collaboration.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #8 -->
+                    <!-- END TOOL #8 -->
                     <!-- TOOL #9 -->
                     <div class="col">
-                        <a href="#" class="in_tool it-9 r-12 wow fadeInUp">
+                        <a href="#" class="in_tool it-9 r-12 mb-30 wow fadeInUp">
                             <!-- Icon -->
                             <div class="in_tool-logo-wrap">
                                 <div class="in_tool-logo ico-60">
@@ -163,11 +163,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Drive</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Store, share, and access your files from anywhere, with seamless cloud integration for easy data access.</p>
                             </div>
                         </a>
                     </div>
-                    <!-- END FEATURE BOX #9 -->
+                    <!-- END TOOL #9 -->
                 </div>
             </div>
             <!-- END INTEGRATIONS-1 WRAPPER -->
@@ -175,7 +175,7 @@
             <div class="row">
                 <div class="col">
                     <div class="more-btn text-center mt-60 wow fadeInUp">
-                        <NuxtLink to="/integrations" class="btn btn--tra-black hover--theme">View all integrations</NuxtLink>
+                        <NuxtLink to="/integrations" class="btn btn--tra-black hover--theme">View All Integrations</NuxtLink>
                     </div>
                 </div>
             </div>

@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Articles & Resources</h2>
+                        <h2 class="s-52 w-700">Insights & Resources</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Stay updated with the latest trends, tips, and strategies to grow your business online with Upplinko.</p>
                     </div>
                 </div>
             </div>
@@ -23,21 +23,21 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--pink-400">Product News</span>
+                            <span class="post-tag color--pink-400">Digital Marketing</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Aliqum mullam porta blandit: tempor sapien and gravida</NuxtLink>
+                                <NuxtLink to="/single-post">How to Boost Your Brand's Visibility with Digital Marketing</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Egestas luctus vitae augue and ipsum ultrice quisque in cursus lacus feugiat congue diam ultrice laoreet sagittis</p>
+                            <p>Learn effective strategies to enhance your brand’s online presence and drive targeted traffic to your website with digital marketing techniques.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Helen J.</p></li>
+                                    <li><p class="p-sm w-500">By Upplinko Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Apr 28, 2024</p></li>
+                                    <li><p class="p-sm">Mar 15, 2024</p></li>
                                 </ul>
                             </div>
                         </div>
@@ -55,21 +55,21 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--green-400">Community</span>
+                            <span class="post-tag color--green-400">SEO Tips</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Porttitor cursus fusce egestas CEO cursus at magna sapien suscipit and egestas ipsum</NuxtLink>
+                                <NuxtLink to="/single-post">Mastering SEO: Strategies for 2024</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Aliqum mullam ipsum vitae and blandit vitae tempor sapien and donec lipsum</p>
+                            <p>Unlock the secrets of effective SEO to improve your website’s search engine rankings and attract more organic traffic in 2024.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Martex Team</p></li>
+                                    <li><p class="p-sm w-500">By Upplinko Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Apr 14, 2024</p></li>
+                                    <li><p class="p-sm">Feb 20, 2024</p></li>
                                 </ul>
                             </div>
                         </div>
@@ -87,21 +87,21 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--purple-400">Freelancer Tips</span>
+                            <span class="post-tag color--purple-400">Website Design</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and Martex magna impedit</NuxtLink>
+                                <NuxtLink to="/single-post">Why a Custom Website is Essential for Your Business</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue ultrice sagittis laoreet</p>
+                            <p>Discover the benefits of having a custom-built website that truly represents your brand and helps convert visitors into customers.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Miranda Green</p></li>
+                                    <li><p class="p-sm w-500">By Upplinko Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Mar 27, 2024</p></li>
+                                    <li><p class="p-sm">Jan 30, 2024</p></li>
                                 </ul>
                             </div>
                         </div>

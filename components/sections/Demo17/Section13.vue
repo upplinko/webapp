@@ -6,14 +6,14 @@
                 <div class="col-md-6 col-lg-5 order-last order-md-2">
                     <div class="txt-block color--white left-column wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-46 w-700">A single tool for all your needs</h2>
+                        <h2 class="s-46 w-700">Streamline Your Business with Upplinko</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet purus and sapien dolor ociis ultrice ipsum aliquam undo congue dolor cursus congue varius magnis</p>
+                                <p>Integrate essential tools to automate workflows, boost efficiency, and improve decision-making for your business.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Our expert team provides tailored digital marketing, SEO, and website solutions to help your business thrive online.</p>
                             </li>
                         </ul>
                     </div>

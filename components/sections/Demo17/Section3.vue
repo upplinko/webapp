@@ -8,9 +8,11 @@
                         <div class="col-md-11 col-lg-9">
                             <div class="section-title wow fadeInUp mb-60">
                                 <!-- Title -->
-                                <h2 class="s-50 w-700">Find inspiration for your next design project</h2>
+                                <h2 class="s-50 w-700">Craft Your Vision with Upplinko</h2>
                                 <!-- Text -->
-                                <p class="p-xl">Aliquam a augue suscipit luctus neque purus ipsum neque diam dolor primis libero tempus, blandit and cursus varius and magnis sodales</p>
+                                <p class="p-xl">
+                                    Transform your ideas into reality with expert web app and website solutions. At Upplinko, we design innovative and user-friendly platforms that drive success and leave a lasting impact.
+                                </p>
                             </div>
                         </div>
                     </div>

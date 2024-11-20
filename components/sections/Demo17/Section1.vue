@@ -6,16 +6,29 @@
                 <div class="col-md-11 col-lg-10 col-xl-9">
                     <div class="hero-17-txt wow fadeInUp">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">Enhance your website design with Martex</h2>
+                        <h2 class="s-60 w-700">Crafting Flawless Websites and Web Apps</h2>
                         <!-- Text -->
-                        <p class="p-xl">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida aliquet tortor undo aliquet an egestas in magna egestas sapien quaerat</p>
+                        <p class="p-xl">
+                            At Upplinko, we transform your ideas into seamless digital experiences. Our expert team designs and develops websites and web apps that are fast, responsive, and tailored to your business goals.
+                        </p>
                         <!-- HERO QUICK FORM -->
                         <form name="quickform" class="quick-form form-shadow mt-45">
                             <!-- Form Inputs -->
                             <div class="input-group">
-                                <input type="email" name="email" class="form-control email r-06" placeholder="Your email address" autocomplete="off" required />
+                                <input 
+                                    type="email" 
+                                    name="email" 
+                                    class="form-control email r-06" 
+                                    placeholder="Enter your email to get started" 
+                                    autocomplete="off" 
+                                    required 
+                                />
                                 <span class="input-group-btn form-btn">
-                                    <button type="submit" class="btn r-06 btn--theme hover--theme submit">Start free trial</button>
+                                    <button 
+                                        type="submit" 
+                                        class="btn r-06 btn--theme hover--theme submit">
+                                        Learn More
+                                    </button>
                                 </span>
                             </div>
                             <!-- Form Message -->

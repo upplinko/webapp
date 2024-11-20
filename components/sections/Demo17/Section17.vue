@@ -9,9 +9,9 @@
                         <div class="col-md-7">
                             <div class="banner-13-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Getting started with Martex today!</h2>
+                                <h2 class="s-46 w-700">Getting started with Upplinko today!</h2>
                                 <!-- Text -->
-                                <p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus placerat and magna ligula cursus</p>
+                                <p class="p-lg">It’s easy to get started with Upplinko. Simply sign up, choose the plan that best suits your business needs, and gain access to powerful tools for web design, automation, and marketing.</p>
                                 <!-- Button -->
                                 <a href="#hero-17" class="btn r-04 btn--theme hover--tra-white"> Get srarted - it's free </a>
                             </div>

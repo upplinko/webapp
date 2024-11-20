@@ -15,8 +15,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Sync Across Accounts</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Seamless Tool Integration</h5>
+                                <p>Sync your essential tools effortlessly with Upplinko’s integration solutions, designed to connect all your platforms in a few clicks for streamlined workflows.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Editing Tools and Exports</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Optimized Workflows</h5>
+                                <p>Leverage powerful editing and automation tools that simplify and accelerate your business processes, ensuring that your team stays focused and productive.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -42,8 +42,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum n eque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Data Privacy & Security</h5>
+                                <p class="mb-0">We respect your privacy. Upplinko ensures that no personal data is collected, allowing you to work securely while keeping your business protected.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->

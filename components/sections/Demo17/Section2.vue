@@ -13,8 +13,10 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">End-to-End Easy</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <h6 class="s-22 w-700">Seamless Integration</h6>
+                                <p>
+                                    We ensure your website or web app integrates effortlessly with your existing systems, delivering a smooth user experience.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -28,8 +30,10 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Unique Elements</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <h6 class="s-22 w-700">Custom Designs</h6>
+                                <p>
+                                    Each project is tailored to reflect your brand identity while focusing on user-centric design for better engagement.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -43,8 +47,10 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Extensions & Addons</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <h6 class="s-22 w-700">Advanced Features</h6>
+                                <p>
+                                    Leverage advanced functionalities and integrations to scale your business with our robust web solutions.
+                                </p>
                             </div>
                         </div>
                     </div>

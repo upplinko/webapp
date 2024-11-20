@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-80">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Great Design That Works!</h2>
+                        <h2 class="s-52 w-700">Innovative Solutions That Drive Results</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Explore how our tailored web solutions and digital marketing strategies have helped our clients succeed.</p>
                     </div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
                     <div class="col">
                         <div id="pt-1-1" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Vintage Poster</h5>
+                            <h5 class="s-22 w-700">Custom Website for E-Commerce</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
@@ -39,7 +39,7 @@
                     <div class="col">
                         <div id="pt-1-2" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Glued Poster</h5>
+                            <h5 class="s-22 w-700">SEO & Marketing Strategy for a Health Brand</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
@@ -59,7 +59,7 @@
                     <div class="col">
                         <div id="pt-1-3" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Double Color</h5>
+                            <h5 class="s-22 w-700">Responsive Website for a Local Business</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
@@ -79,7 +79,7 @@
                     <div class="col">
                         <div id="pt-1-4" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Reativity</h5>
+                            <h5 class="s-22 w-700">Branding & Web Design for a Startup</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->

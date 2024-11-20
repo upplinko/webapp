@@ -7,9 +7,9 @@
                 <div class="col-md-6 order-last order-md-2">
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Plug your essential tools in few clicks</h2>
+                        <h2 class="s-46 w-700">Seamlessly Integrate Essential Tools for Your Business</h2>
                         <!-- Text -->
-                        <p class="mb-0">Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                        <p class="mb-0">Easily integrate tools that boost your operations—whether for marketing, sales, or customer engagement—with Upplinko’s custom solutions.</p>
                         <!-- Button -->
                         <a href="#integrations-1" class="btn btn-sm r-04 btn--tra-black hover--theme"> Explore all integrations </a>
                     </div>
