@@ -10616,9 +10616,63 @@ body.theme--dark {
 .btn.btn--theme.hover--theme.submit:hover,
 .pt-btn.btn.r-04.btn--theme.hover--theme:hover,
 .btn.r-04.btn--theme.hover--tra-white:hover,
-.btn.btn--theme.hover--theme:hover {
+.btn.btn--theme.hover--theme:hover
+.btn btn-sm r-04 btn--tra-black hover--theme {
   background-position: 100% 0 !important; // Shift gradient on hover
   color: #fff !important; // Ensure text stays white on hover
 }
 
+/* Gradient for cbox-2-ico and btn classes */
+.cbox-2-ico.bg--theme.color--white,
+.btn.btn--tra-black.hover--theme {
+  background: linear-gradient(45deg, #5e3ad3, #7952ec) !important; /* Gradient background */
+  color: #fff !important; /* Ensure text remains white for contrast */
+  transition: background 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transition effects */
+}
+
+/* Hover effect for gradient buttons */
+.btn.btn--tra-black.hover--theme:hover,
+.cbox-2-ico.bg--theme.color--white:hover {
+  background: linear-gradient(45deg, #7952ec, #5e3ad3) !important; /* Reverse gradient for hover */
+  color: #fff !important; /* Maintain text contrast */
+}
+
+/* Gradient for switcher */
+.switcher.bg--grey.switcher--theme {
+    background: linear-gradient(45deg, #5e3ad3, #7952ec) !important; /* Gradient background */
+    color: #fff !important; /* Ensure text/icons remain white for contrast */
+    border: 0px solid transparent; /* Initial border setup */
+    border-image: linear-gradient(45deg, #5e3ad3, #7952ec); /* Gradient border */
+    border-image-slice: 1; /* Ensures full gradient is applied to the border */
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out; /* Smooth transitions */
+  }
+  
+  /* Hover effect for switcher */
+  .switcher.bg--grey.switcher--theme:hover {
+    background: linear-gradient(45deg, #7952ec, #5e3ad3) !important; /* Reverse gradient for hover */
+    border-image: linear-gradient(45deg, #7952ec, #5e3ad3); /* Adjust border gradient for hover */
+    border-image-slice: 1; /* Ensure consistency */
+    color: #fff !important; /* Maintain contrast */
+  }
+  
+
+  /* Gradient for color--theme text */
+.color--theme {
+    background: -webkit-linear-gradient(45deg, #5e3ad3, #7952ec); /* Gradient for webkit browsers */
+    background: linear-gradient(45deg, #5e3ad3, #7952ec); /* Standard gradient */
+    -webkit-background-clip: text; /* Ensures gradient applies only to text */
+    -webkit-text-fill-color: transparent; /* Makes the text gradient visible */
+    color: transparent; /* Fallback for unsupported browsers */
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transitions */
+  }
+  
+  /* Hover effect for color--theme text */
+  .color--theme:hover {
+    background: -webkit-linear-gradient(45deg, #7952ec, #5e3ad3); /* Reverse gradient on hover */
+    background: linear-gradient(45deg, #7952ec, #5e3ad3); /* Reverse gradient for standard */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transitions */
+  }
   
