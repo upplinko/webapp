@@ -29,39 +29,40 @@
                                 <div class="row">
                                     <!-- Column 1: Web Design & Development -->
                                     <ul class="col-md-12 col-lg-3 link-list">
-                                        <li><NuxtLink to="/demo-17">WebApps/Websites </NuxtLink></li>
-                                        <li><NuxtLink to="/demo-11">Landing Pages</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-17">E-commerce Stores</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-17">Custom Stack</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-5">CMS Solutions</NuxtLink></li>
-                                    </ul>
-                                    
-                                    <!-- Column 2: Design & UX/UI -->
-                                    <ul class="col-md-12 col-lg-3 link-list">
-                                        <li><NuxtLink to="/demo-12">UX/UI Design</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-11">Responsive Web Design</NuxtLink></li>
-                                        <li><NuxtLink to="demo-25">Brand Identity</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-11">Prototyping & Wireframing</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-12">Web Animations</NuxtLink></li>
-                                    </ul>
-                                    
-                                    <!-- Column 3: Digital Marketing -->
-                                    <ul class="col-md-12 col-lg-3 link-list">
-                                        <li><NuxtLink to="/demo-13">SEO</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-1">Content Marketing</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-20">PPC Advertising</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-23">Social Media Marketing</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-22">Email Marketing</NuxtLink></li>
-                                    </ul>
-                                    
-                                    <!-- Column 4: Strategy & Automation -->
-                                    <ul class="col-md-12 col-lg-3 link-list">
-                                        <li><NuxtLink to="/demo-24">Automationn</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-25">Brand Strategy</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-26">ORM</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-21">Analytics & Insights</NuxtLink></li>
-                                        <li><NuxtLink to="/demo-27">Consulting</NuxtLink></li>
-                                    </ul>
+    <li><NuxtLink to="#">WebApps/Websites</NuxtLink></li>
+    <li><NuxtLink to="#">Landing Pages</NuxtLink></li>
+    <li><NuxtLink to="#">E-commerce Stores</NuxtLink></li>
+    <li><NuxtLink to="#">Custom Stack</NuxtLink></li>
+    <li><NuxtLink to="#">CMS Solutions</NuxtLink></li>
+</ul>
+
+<!-- Column 2: Design & UX/UI -->
+<ul class="col-md-12 col-lg-3 link-list">
+    <li><NuxtLink to="#">UX/UI Design</NuxtLink></li>
+    <li><NuxtLink to="#">Responsive Web Design</NuxtLink></li>
+    <li><NuxtLink to="#">Brand Identity</NuxtLink></li>
+    <li><NuxtLink to="#">Prototyping & Wireframing</NuxtLink></li>
+    <li><NuxtLink to="#">Web Animations</NuxtLink></li>
+</ul>
+
+<!-- Column 3: Digital Marketing -->
+<ul class="col-md-12 col-lg-3 link-list">
+    <li><NuxtLink to="#">SEO</NuxtLink></li>
+    <li><NuxtLink to="#">Content Marketing</NuxtLink></li>
+    <li><NuxtLink to="#">PPC Advertising</NuxtLink></li>
+    <li><NuxtLink to="#">Social Media Marketing</NuxtLink></li>
+    <li><NuxtLink to="#">Email Marketing</NuxtLink></li>
+</ul>
+
+<!-- Column 4: Strategy & Automation -->
+<ul class="col-md-12 col-lg-3 link-list">
+    <li><NuxtLink to="#">Automation</NuxtLink></li>
+    <li><NuxtLink to="#">Brand Strategy</NuxtLink></li>
+    <li><NuxtLink to="#">ORM</NuxtLink></li>
+    <li><NuxtLink to="#">Analytics & Insights</NuxtLink></li>
+    <li><NuxtLink to="#">Consulting</NuxtLink></li>
+</ul>
+
                                 </div>
                             </div>
                         </div>
