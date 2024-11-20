@@ -8,15 +8,15 @@
                         <div class="col-md-6 order-last order-md-2">
                             <div class="txt-block left-column wow fadeInRight">
                                 <!-- Section ID -->
-                                <span class="section-id">From Good to Great</span>
+                                <span class="section-id">From Concept to Conversion</span>
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Scale your unique design process</h2>
+                                <h2 class="s-46 w-700">Scale your business with custom landing pages</h2>
                                 <!-- Text -->
-                                <p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor vitae eros dolor luctus placerat magna ligula cursus and purus pretium</p>
+                                <p>At Upplinko, we believe that every detail matters. Our landing pages are designed to not only capture attention but also convert visitors into customers, helping your business grow and thrive in a competitive digital landscape.</p>
                                 <!-- Small Title -->
-                                <h5 class="s-24 w-700 h5-title">Every pixel counts</h5>
+                                <h5 class="s-24 w-700 h5-title">Every element works for you</h5>
                                 <!-- Text -->
-                                <p class="mb-0">Sapien tempor sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae</p>
+                                <p class="mb-0">From layout to copy, we meticulously design every aspect of your landing page to ensure it’s user-friendly, engaging, and aligned with your business goals. Let us help you create a page that delivers results.</p>
                             </div>
                         </div>
                         <!-- END TEXT BLOCK -->

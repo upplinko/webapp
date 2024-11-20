@@ -5,7 +5,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-9">
                     <div class="rating-title mb-40">
-                        <h5 class="s-18 color--grey w-500">Our clients love us as much as we love them</h5>
+                        <h5 class="s-18 color--grey w-500">Our clients love us as much as we love them!</h5>
                     </div>
                 </div>
             </div>
@@ -17,7 +17,7 @@
                         <div id="rb-1-1" class="rbox-1">
                             <!-- Brand Logo -->
                             <div class="rbox-1-img">
-                                <img class="img-fluid" src="/assets/images/brand-21.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/brand-21.png" alt="brand-logo" />
                             </div>
                             <!-- Rating Stars -->
                             <div class="star-rating ico-10 bg--white-100 r-100 clearfix">
@@ -35,7 +35,7 @@
                         <div id="rb-1-2" class="rbox-1">
                             <!-- Brand Logo -->
                             <div class="rbox-1-img">
-                                <img class="img-fluid" src="/assets/images/brand-22.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/brand-22.png" alt="brand-logo" />
                             </div>
                             <!-- Rating Stars -->
                             <div class="star-rating ico-10 bg--white-100 r-100 clearfix">
@@ -53,7 +53,7 @@
                         <div id="rb-1-3" class="rbox-1">
                             <!-- Brand Logo -->
                             <div class="rbox-1-img">
-                                <img class="img-fluid" src="/assets/images/brand-23.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/brand-23.png" alt="brand-logo" />
                             </div>
                             <!-- Rating Stars -->
                             <div class="star-rating ico-10 bg--white-100 r-100 clearfix">

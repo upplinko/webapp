@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9 col-xl-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Everything you need to bring your designs to life</h2>
+                        <h2 class="s-50 w-700">Everything you need to bring your digital presence to life</h2>
                         <!-- Text -->
-                        <p class="s-21">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21">With Upplinko, you get the perfect blend of creativity and technology to turn your ideas into impactful digital experiences.</p>
                     </div>
                 </div>
             </div>

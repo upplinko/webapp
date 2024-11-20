@@ -15,8 +15,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Unique Design Elements</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Tailored Web Design</h5>
+                                <p>Create a personalized and professional website that represents your brand and engages your audience effectively.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Custom Integrations</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Seamless Integrations</h5>
+                                <p>Integrate essential tools like marketing, SEO, and eCommerce platforms into your website with ease, boosting your business operations.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -42,8 +42,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Drag & Drop Editor</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">User-Friendly Dashboards</h5>
+                                <p class="mb-0">Utilize intuitive drag-and-drop interfaces for effortless content management and real-time analytics to guide your business decisions.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->

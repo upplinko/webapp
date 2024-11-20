@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Affordable solutions for all your creativity needs</h2>
+                        <h2 class="s-50 w-700">Tailored Landing Page Solutions to Boost Your Business</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Crafting engaging and high-converting landing pages for your business needs.</p>
                     </div>
                 </div>
             </div>
@@ -32,8 +32,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Intuitive</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">User-Centric</h6>
+                                <p class="p-sm">Optimized for seamless user experience and higher conversions.</p>
                             </div>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Flexible</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Highly Customizable</h6>
+                                <p class="p-sm">Landing pages designed to reflect your brand’s unique identity.</p>
                             </div>
                         </div>
                     </div>
@@ -78,8 +78,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Creative</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Effective</h6>
+                                <p class="p-sm">Designed with performance in mind to drive conversions and engagement.</p>
                             </div>
                         </div>
                     </div>
@@ -101,8 +101,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Efficient</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Data-Driven</h6>
+                                <p class="p-sm">Built to optimize user interactions and provide measurable results.</p>
                             </div>
                         </div>
                     </div>

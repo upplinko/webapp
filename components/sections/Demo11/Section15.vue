@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-80">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Great Design That Works!</h2>
+                        <h2 class="s-50 w-700">Custom Landing Pages That Drive Results</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Engaging, user-friendly designs that help you connect with your audience and convert leads into customers.</p>
                     </div>
                 </div>
             </div>
@@ -19,12 +19,12 @@
                     <div class="col">
                         <div id="pt-1-1" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Vintage Poster</h5>
+                            <h5 class="s-22 w-700">Product Launch Page</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-05.jpg" alt="project-preview" />
+                                    <img class="img-fluid" src="/assets/images/projects/project-05.jpg" alt="product-launch-page" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -39,12 +39,12 @@
                     <div class="col">
                         <div id="pt-1-2" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Glued Poster</h5>
+                            <h5 class="s-22 w-700">Lead Generation Page</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-02.jpg" alt="project-preview" />
+                                    <img class="img-fluid" src="/assets/images/projects/project-02.jpg" alt="lead-generation-page" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -59,12 +59,12 @@
                     <div class="col">
                         <div id="pt-1-3" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Double Color</h5>
+                            <h5 class="s-22 w-700">Event Registration Page</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-03.jpg" alt="project-preview" />
+                                    <img class="img-fluid" src="/assets/images/projects/project-03.jpg" alt="event-registration-page" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -79,12 +79,12 @@
                     <div class="col">
                         <div id="pt-1-4" class="project-details">
                             <!-- Title -->
-                            <h5 class="s-22 w-700">Reativity</h5>
+                            <h5 class="s-22 w-700">Service Offer Page</h5>
                             <!-- Image -->
                             <div class="project-preview r-10">
                                 <!-- Project Preview -->
                                 <div class="hover-overlay">
-                                    <img class="img-fluid" src="/assets/images/projects/project-04.jpg" alt="project-preview" />
+                                    <img class="img-fluid" src="/assets/images/projects/project-04.jpg" alt="service-offer-page" />
                                     <div class="item-overlay"></div>
                                 </div>
                                 <!-- Project Link -->
@@ -102,7 +102,7 @@
             <div class="row">
                 <div class="col">
                     <div class="more-projects wow fadeInUp">
-                        <NuxtLink to="/projects" class="btn btn--theme hover--tra-black">See more projects</NuxtLink>
+                        <NuxtLink to="/projects" class="btn btn--theme hover--tra-black">See more landing page projects</NuxtLink>
                     </div>
                 </div>
             </div>

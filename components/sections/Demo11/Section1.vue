@@ -6,12 +6,12 @@
                 <div class="col-md-6">
                     <div class="hero-11-txt wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">A design experience like never before</h2>
+                        <h2 class="s-60 w-700">Transform Your Business with High-Impact Landing Pages</h2>
                         <!-- Text -->
-                        <p class="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute ligula and aliquet tortor</p>
+                        <p class="p-lg">Our expertly designed landing pages are crafted to convert visitors into customers. With seamless integration and a focus on user experience, we help you achieve your marketing goals faster.</p>
                         <!-- Button -->
-                        <a href="#banner-3" class="btn r-04 btn--theme hover--tra-black">Get started for free</a>
-                        <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> No credit card needed, free 14-day trial</p>
+                        <a href="#banner-3" class="btn r-04 btn--theme hover--tra-black">Start Building Today</a>
+                        <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> No upfront costs, tailored to your needs</p>
                     </div>
                 </div>
                 <!-- END HERO TEXT -->

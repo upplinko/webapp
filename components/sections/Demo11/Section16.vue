@@ -6,9 +6,9 @@
                 <div class="col-md-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Loved by thousands of creators and brands</h2>
+                        <h2 class="s-50 w-700">Trusted by creators and businesses worldwide</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Our clients love the impact we create through creative solutions that boost engagement and growth.</p>
                     </div>
                 </div>
             </div>

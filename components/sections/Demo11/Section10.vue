@@ -13,16 +13,16 @@
                 <div class="col-md-6">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Section ID -->
-                        <span class="section-id">Easy Integration</span>
+                        <span class="section-id">Effortless Integration</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Plug your essential tools in few clicks</h2>
+                        <h2 class="s-46 w-700">Integrate essential tools with just a few clicks</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna undo aoreet primis</p>
+                                <p>Seamlessly integrate your marketing, SEO, and website management tools with Upplinko’s platform, simplifying your business operations.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien a blandit</p>
+                                <p class="mb-0">Streamline your workflow with our easy-to-use dashboards and real-time analytics that help you make informed decisions faster.</p>
                             </li>
                         </ul>
                     </div>

@@ -5,23 +5,23 @@
                 <!-- IMAGE BLOCK -->
                 <div class="col-md-6 col-lg-7">
                     <div class="img-block left-column wow fadeInRight">
-                        <img class="img-fluid" src="/assets/images/img-14.png" alt="content-image" />
+                        <img class="img-fluid" src="/assets/images/img-14.png" alt="landing-page-design" />
                     </div>
                 </div>
                 <!-- TEXT BLOCK -->
                 <div class="col-md-6 col-lg-5">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Section ID -->
-                        <span class="section-id">One-Stop Solution</span>
+                        <span class="section-id">Comprehensive Landing Page Solutions</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">A single tool for all your needs</h2>
+                        <h2 class="s-46 w-700">Your All-in-One Landing Page Solution</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet purus and sapien dolor ociis ultrice ipsum aliquam undo congue dolor cursus congue varius magnis</p>
+                                <p>From design to conversion optimization, we provide a holistic approach for building high-performance landing pages that help your business grow.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Our solutions are user-focused, ensuring seamless experiences that drive engagement and measurable results for your brand.</p>
                             </li>
                         </ul>
                     </div>

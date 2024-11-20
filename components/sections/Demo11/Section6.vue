@@ -15,24 +15,24 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Creative alternative solutions</h5>
+                            <h5 class="s-24 w-700">Creative Solutions for Digital Growth</h5>
                             <!-- Text -->
-                            <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                            <p>At Upplinko, we offer innovative and creative solutions to help businesses expand their digital presence. Whether it’s through a custom landing page or a digital marketing strategy, we are committed to driving results that matter to you.</p>
                         </div>
                         <!-- END TEXT BOX -->
                         <!-- TEXT BOX -->
                         <div class="txt-box mb-0">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Advanced performance made easy</h5>
+                            <h5 class="s-24 w-700">Seamless Integration for Business Success</h5>
                             <!-- Text -->
-                            <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
+                            <p>Our services are designed to integrate smoothly into your business, maximizing efficiency and enhancing performance. From optimized landing pages to effective digital marketing campaigns, we focus on results that improve your bottom line.</p>
                             <!-- List -->
                             <ul class="simple-list">
                                 <li class="list-item">
-                                    <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                    <p>Custom landing pages built to convert visitors into customers and drive growth for your business.</p>
                                 </li>
                                 <li class="list-item">
-                                    <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                    <p class="mb-0">Tailored digital marketing strategies designed to reach your ideal audience and generate leads.</p>
                                 </li>
                             </ul>
                         </div>

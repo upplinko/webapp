@@ -19,8 +19,8 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Happy Customers</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">Happy Clients</h5>
+                                    <p>We’ve successfully delivered landing page designs that converted visitors into loyal customers for over 26,000 businesses.</p>
                                 </div>
                             </div>
                         </div>
@@ -41,8 +41,8 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Positive Ratings</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">Conversions Boosted</h5>
+                                    <p>Landing pages crafted by Upplinko have helped businesses increase their conversion rates by over 13,000%.</p>
                                 </div>
                             </div>
                         </div>
@@ -63,8 +63,8 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Rating</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">Client Satisfaction</h5>
+                                    <p>Our clients rate our landing page designs an average of 4.5/5 for aesthetics, user-friendliness, and effectiveness.</p>
                                 </div>
                             </div>
                         </div>

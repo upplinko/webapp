@@ -10,29 +10,29 @@
                                 <!-- TEXT BOX -->
                                 <div class="txt-box">
                                     <!-- Title -->
-                                    <h5 class="s-24 w-700">Everything in one place</h5>
+                                    <h5 class="s-24 w-700">Your complete digital solution</h5>
                                     <!-- Text -->
-                                    <p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor vitae eros dolor luctus placerat magna ligula cursus and purus pretium</p>
+                                    <p>At Upplinko, we provide everything you need to launch and grow your online presence, from custom websites to digital marketing strategies that work.</p>
                                 </div>
                                 <!-- END TEXT BOX -->
                                 <!-- TEXT BOX -->
                                 <div class="txt-box mb-0">
                                     <!-- Title -->
-                                    <h5 class="s-24 w-700">Editing tools and exports</h5>
+                                    <h5 class="s-24 w-700">Integrated tools for success</h5>
                                     <!-- List -->
                                     <ul class="simple-list">
                                         <li class="list-item">
-                                            <p>Tempor sapien volute turpis ipsum laoreet purus and sapien dolor diam ultrice ipsum aliquam undo congue dolor cursus tempor sapien quaerat</p>
+                                            <p>Our all-in-one platform offers seamless website design, SEO, and marketing automation tools that work together to boost your business.</p>
                                         </li>
                                         <li class="list-item">
-                                            <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien a turpis ultrice auctor ipsum</p>
+                                            <p class="mb-0">With our easy-to-use dashboard, track your success and make data-driven decisions to stay ahead of the competition.</p>
                                         </li>
                                     </ul>
                                 </div>
                                 <!-- END TEXT BOX -->
                                 <!-- Link -->
                                 <div class="txt-block-tra-link mt-25">
-                                    <a href="#features-7" class="tra-link ico-20 color--theme"> All-in-one platform <span class="flaticon-next"></span> </a>
+                                    <a href="#features-7" class="tra-link ico-20 color--theme"> Explore our platform <span class="flaticon-next"></span> </a>
                                 </div>
                             </div>
                         </div>
