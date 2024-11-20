@@ -10596,3 +10596,29 @@ body.theme--dark {
 	}
 }
 
+// Override styles for specific button classes with gradient background
+.btn.r-06.btn--theme.hover--theme.submit,
+.btn.r-04.btn--theme.hover--tra-white.last-link,
+.btn.btn--theme.hover--theme.submit,
+.pt-btn.btn.r-04.btn--theme.hover--theme,
+.btn.r-04.btn--theme.hover--tra-white,
+.btn.btn--theme.hover--theme {
+  background: linear-gradient(45deg, #5e3ad3, #7952ec, #7662e3) !important; // Gradient background
+  border: none !important; // Remove borders for a cleaner gradient look
+  color: #fff !important; // White text for contrast
+  background-size: 200% 200%; // Smooth transition when hovered
+  transition: background-position 0.3s ease-in-out; // Smooth hover effect
+}
+
+// Hover effects for the buttons
+.btn.r-06.btn--theme.hover--theme.submit:hover,
+.btn.r-04.btn--theme.hover--tra-white.last-link:hover,
+.btn.btn--theme.hover--theme.submit:hover,
+.pt-btn.btn.r-04.btn--theme.hover--theme:hover,
+.btn.r-04.btn--theme.hover--tra-white:hover,
+.btn.btn--theme.hover--theme:hover {
+  background-position: 100% 0 !important; // Shift gradient on hover
+  color: #fff !important; // Ensure text stays white on hover
+}
+
+  
