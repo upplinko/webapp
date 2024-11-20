@@ -21,8 +21,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Market Research</h6>
-                                <p>Luctus augue egestas undo ultrice and quisque lacus</p>
+                                <h6 class="s-20 w-700">Market Analysis</h6>
+                                <p>Comprehensive insights to understand your audience and stay ahead of trends.</p>
                             </div>
                         </div>
                     </div>
@@ -44,8 +44,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">User Experience</h6>
-                                <p>Luctus augue egestas undo ultrice and quisque lacus</p>
+                                <h6 class="s-20 w-700">User-Centric Design</h6>
+                                <p>Crafting experiences that captivate and convert your audience seamlessly.</p>
                             </div>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Digital Marketing</h6>
-                                <p>Luctus augue egestas undo ultrice and quisque lacus</p>
+                                <p>Innovative strategies to boost visibility and drive measurable results.</p>
                             </div>
                         </div>
                     </div>
@@ -90,8 +90,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">SEO Services</h6>
-                                <p>Luctus augue egestas undo ultrice and quisque lacus</p>
+                                <h6 class="s-20 w-700">SEO Optimization</h6>
+                                <p>Maximize your online presence and rank higher on search engines.</p>
                             </div>
                         </div>
                     </div>

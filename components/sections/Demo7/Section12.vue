@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">Our Happy Customers</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Hear from the businesses we’ve helped grow through seamless solutions and innovative strategies.</p>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Quaerat sodales sapien euismod blandit aliquet ipsum primis undo and cubilia laoreet augue and luctus magna dolor luctus egestas sapien vitae</p>
+                                <p>Upplinko has helped us integrate the right tools and strategies, making our operations more efficient and customer-focused. Their team truly understands our needs and provides tailored solutions.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -32,8 +32,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Scott Boxer</h6>
-                                        <p class="p-sm">@scott_boxer</p>
+                                        <h6 class="s-18 w-700">House of Krux</h6>
+                                        <p class="p-sm">Urban Streetwear Brand</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -50,7 +50,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>At sagittis congue augue and magna ipsum vitae a purus ipsum primis diam a cubilia laoreet augue egestas luctus a donec vitae ultrice ligula magna suscipit lectus gestas augue into cubilia</p>
+                                <p>The digital marketing strategies we implemented with Upplinko have drastically increased our visibility online. Their expertise and personalized approach made all the difference in our results.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -59,8 +59,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Joel Peterson</h6>
-                                        <p class="p-sm">Internet Surfer</p>
+                                        <h6 class="s-18 w-700">Pro Toner</h6>
+                                        <p class="p-sm">Gym Equipments Manufacturer</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -77,7 +77,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>An augue cubilia laoreet magna suscipit egestas and ipsum a lectus purus ipsum primis and augue ultrice ligula and egestas a suscipit lectus gestas undo auctor tempus feugiat impedit quaerat</p>
+                                <p>Thanks to Upplinko, our website now delivers a seamless user experience that boosts conversions. Their web design and development services are second to none!</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -86,8 +86,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Jennifer Harper</h6>
-                                        <p class="p-sm">App Developer</p>
+                                        <h6 class="s-18 w-700">Ayush Mishra</h6>
+                                        <p class="p-sm">Entrepreneur</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -104,7 +104,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Augue at vitae purus tempus egestas volutpat augue undo cubilia laoreet magna suscipit luctus dolor blandit at purus tempus feugiat impedit</p>
+                                <p>Upplinko's automation services streamlined our workflow, saving us time and enhancing productivity. Their team’s support has been invaluable in our growth journey.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -113,8 +113,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Evelyn Martinez</h6>
-                                        <p class="p-sm">WordPress Consultant</p>
+                                        <h6 class="s-18 w-700">Lumber Casa</h6>
+                                        <p class="p-sm">Furniture Store</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->

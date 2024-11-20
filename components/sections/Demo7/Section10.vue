@@ -13,10 +13,10 @@
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna undo aoreet primis</p>
+                                <p>Seamlessly integrate essential tools into your workflow with a few simple steps, enhancing your business operations without complexity.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien a blandit</p>
+                                <p class="mb-0">Our platform offers easy integration options for a variety of tools, making it quick and efficient to enhance productivity and streamline your processes.</p>
                             </li>
                         </ul>
                     </div>

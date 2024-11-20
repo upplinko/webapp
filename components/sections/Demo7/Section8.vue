@@ -11,12 +11,12 @@
                                 <!-- Digit -->
                                 <div class="statistic-block-digit text-center">
                                     <h2 class="s-46 statistic-number">
-                                        <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="93" :duration="2000" /></span>k
+                                        <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="93" :duration="2000" /></span>%
                                     </h2>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Porta justo integer and velna vitae auctor</p>
+                                    <p class="p-md">Increased operational efficiency for clients</p>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Ligula magna suscipit vitae and rutrum</p>
+                                    <p class="p-md">Reduction in manual errors post-automation</p>
                                 </div>
                             </div>
                         </div>
@@ -47,12 +47,12 @@
                                 <!-- Digit -->
                                 <div class="statistic-block-digit text-center">
                                     <h2 class="s-46 statistic-number">
-                                        <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="24" :duration="2000" /></span>k
+                                        <span class="count-element d-flex"><ElementsCounterUp :start="0" :end="24" :duration="2000" /></span>%
                                     </h2>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Sagittis congue augue egestas an egestas</p>
+                                    <p class="p-md">Boost in customer satisfaction after adopting automated workflows</p>
                                 </div>
                             </div>
                         </div>

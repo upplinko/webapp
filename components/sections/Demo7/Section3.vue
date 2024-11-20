@@ -13,20 +13,20 @@
                 <div class="col-md-6">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Section ID -->
-                        <span class="section-id">Strategies that work</span>
+                        <span class="section-id">Driving Success Online</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Right strategies & implementations</h2>
+                        <h2 class="s-46 w-700">Tailored Strategies for Maximum Impact</h2>
                         <!-- Text -->
-                        <p>Nemo ipsam egestas volute turpis egestas ipsum and purus sapien ultrice an aliquam quaerat ipsum augue turpis sapien cursus congue magna purus quaerat at ligula purus egestas magna cursus undo varius purus magnis sapien quaerat</p>
+                        <p>At Upplinko, we craft data-driven strategies that boost your online presence, enhance engagement, and deliver measurable results. Whether it's SEO, digital marketing, or automation, our solutions ensure your business thrives in the digital age.</p>
                         <!-- Small Title -->
-                        <h5 class="s-24 w-700">Get more done in less time</h5>
+                        <h5 class="s-24 w-700">Achieve More with Less Effort</h5>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Sapien quaerat tempor an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue cursus dolor</p>
+                                <p>Leverage cutting-edge tools and strategies to streamline your operations and amplify your impact.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Purus suscipit cursus vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                <p class="mb-0">Optimize your online presence with actionable insights and expert execution tailored to your business goals.</p>
                             </li>
                         </ul>
                     </div>

@@ -23,8 +23,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Content Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-19 w-700">SEO Optimization</h5>
+                                        <p>Enhance your visibility and rankings with our tailored SEO strategies</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
@@ -43,8 +43,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Video Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-19 w-700">Business Automation</h5>
+                                        <p>Automate your workflows for increased efficiency and less manual work</p>
                                     </div>
                                 </div>
                             </div>
@@ -65,8 +65,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Pay Per Click (PPC)</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-19 w-700">Landing Pages</h5>
+                                        <p>Capture more leads with highly-converting landing pages</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #4 -->
@@ -85,8 +85,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Business Analytics</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-19 w-700">Social Media Marketing</h5>
+                                        <p>Grow your brand with targeted and impactful social media strategies</p>
                                     </div>
                                 </div>
                             </div>
@@ -99,18 +99,18 @@
                 <div class="col-md-5 order-first order-md-2">
                     <div class="txt-block left-column wow fadeInLeft">
                         <!-- Section ID -->
-                        <span class="section-id">Access Control</span>
+                        <span class="section-id">Optimize Operations</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Control data access with ease</h2>
+                        <h2 class="s-46 w-700">Automate and Scale Your Business</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis vitae dolor luctus placerat magna ligula and cursus vitae</p>
+                        <p>From streamlined workflows to increased lead generation, Upplinko provides automation tools to optimize your business operations and boost efficiency.</p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet diam purus sapien a dolor ociis ultrice ipsum aliquam</p>
+                                <p>Automate repetitive tasks to save time and reduce errors</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Leverage powerful landing pages and targeted marketing to convert leads faster</p>
                             </li>
                         </ul>
                     </div>

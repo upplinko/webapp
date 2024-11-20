@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-80">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Track the progress towards objectives with key results</h2>
+                        <h2 class="s-50 w-700">Optimize Your Goals with Precision Tracking</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Leverage advanced tools to monitor progress, analyze outcomes, and drive business growth.</p>
                     </div>
                 </div>
             </div>
@@ -24,8 +24,8 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <h6 class="s-22 w-700">Intelligent Dashboards</h6>
+                                <p>Get real-time insights with user-friendly dashboards designed to keep you informed and in control.</p>
                             </div>
                         </div>
                     </div>
@@ -39,8 +39,8 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Engagement Analysis</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <h6 class="s-22 w-700">Data-Driven Analytics</h6>
+                                <p>Analyze engagement trends to refine strategies and achieve measurable outcomes faster.</p>
                             </div>
                         </div>
                     </div>
@@ -54,8 +54,8 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Advanced Security</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <h6 class="s-22 w-700">Robust Security</h6>
+                                <p>Ensure your data remains safe with top-tier security protocols tailored to protect your business.</p>
                             </div>
                         </div>
                     </div>

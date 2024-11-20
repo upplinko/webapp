@@ -5,7 +5,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-9">
                     <div class="brands-title mb-50">
-                        <h5 class="s-20 w-700">Trusted and used by over 3,400 companies</h5>
+                        <h5 class="s-20 w-700">Trusted by over 3,400 companies globally</h5>
+                        <p class="s-16 color--grey">Join the businesses that have elevated their operations through Upplinko's tailored digital solutions.</p>
                     </div>
                 </div>
             </div>

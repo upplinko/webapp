@@ -8,9 +8,9 @@
                     <div class="col-md-10 col-lg-9">
                         <div class="section-title mb-60">
                             <!-- Title -->
-                            <h2 class="s-50 w-700">Easy integrate all your essential tools</h2>
+                            <h2 class="s-50 w-700">Effortlessly Integrate Essential Tools for Your Business</h2>
                             <!-- Text -->
-                            <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                            <p class="s-21 color--grey">Simplify and streamline your business operations with seamless tool integrations.</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                                 <img class="img-fluid" src="/assets/images/png_icons/tool-4.png" alt="brand-logo" />
                             </div>
                             <!-- Title -->
-                            <h6 class="s-17 w-700">Hubspot</h6>
+                            <h6 class="s-17 w-700">HubSpot</h6>
                         </a>
                     </div>
                     <!-- END TOOL #4 -->
@@ -72,7 +72,7 @@
                                 <img class="img-fluid" src="/assets/images/png_icons/tool-5.png" alt="brand-logo" />
                             </div>
                             <!-- Title -->
-                            <h6 class="s-17 w-700">MailChimp</h6>
+                            <h6 class="s-17 w-700">Mailchimp</h6>
                         </a>
                     </div>
                     <!-- END TOOL #5 -->

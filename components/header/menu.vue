@@ -31,7 +31,7 @@
                                     <ul class="col-md-12 col-lg-3 link-list">
     <li><NuxtLink to="/demo-17">WebApps/Websites</NuxtLink></li>
     <li><NuxtLink to="/demo-11">Landing Pages</NuxtLink></li>
-    <li><NuxtLink to="#">E-commerce Stores</NuxtLink></li>
+    <li><NuxtLink to="/demo-3">E-commerce Stores</NuxtLink></li>
     <li><NuxtLink to="#">Custom Stack</NuxtLink></li>
     <li><NuxtLink to="#">CMS Solutions</NuxtLink></li>
 </ul>

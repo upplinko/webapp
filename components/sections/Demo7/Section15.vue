@@ -14,24 +14,24 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Advanced Analytics Review</h5>
+                            <h5 class="s-24 w-700">Data-Driven Marketing Strategy</h5>
                             <!-- Text -->
-                            <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                            <p>Leverage advanced analytics to develop marketing strategies that are data-driven, ensuring more efficient decision-making and optimized results.</p>
                         </div>
                         <!-- END TEXT BOX -->
                         <!-- TEXT BOX -->
                         <div class="txt-box mb-0">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Email Marketing Campaigns</h5>
+                            <h5 class="s-24 w-700">Targeted Campaigns for Growth</h5>
                             <!-- Text -->
-                            <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
+                            <p>Utilize Upplinko's expertise in email marketing to create personalized, targeted campaigns designed to engage your audience and accelerate growth.</p>
                             <!-- List -->
                             <ul class="simple-list">
                                 <li class="list-item">
-                                    <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                    <p>Refine customer segmentation for highly tailored email outreach.</p>
                                 </li>
                                 <li class="list-item">
-                                    <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                    <p class="mb-0">Increase conversions through strategic content and timing in email campaigns.</p>
                                 </li>
                             </ul>
                         </div>

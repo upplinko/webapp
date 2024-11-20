@@ -9,24 +9,24 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Solution that grows with you</h5>
+                            <h5 class="s-24 w-700">Automate and Scale Your Business</h5>
                             <!-- Text -->
-                            <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                            <p>Streamline your business operations with automation tools that grow with your needs, saving time and resources while increasing efficiency.</p>
                         </div>
                         <!-- END TEXT BOX -->
                         <!-- TEXT BOX -->
                         <div class="txt-box mb-0">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Connect your data sources</h5>
+                            <h5 class="s-24 w-700">Integrate Your Business Systems</h5>
                             <!-- Text -->
-                            <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
+                            <p>Seamlessly connect your data sources and systems, allowing for smooth data flow and enhanced decision-making, without manual intervention.</p>
                             <!-- List -->
                             <ul class="simple-list">
                                 <li class="list-item">
-                                    <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                    <p>Automate routine tasks and focus on high-value activities with our tailored automation solutions.</p>
                                 </li>
                                 <li class="list-item">
-                                    <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                    <p class="mb-0">Easily integrate your CRM, marketing tools, and other essential software into a unified workflow.</p>
                                 </li>
                             </ul>
                         </div>

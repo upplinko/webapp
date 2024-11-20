@@ -15,8 +15,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Simplify. Optimize. Automate</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Streamline Your Business</h5>
+                                <p>Our automation services simplify your workflows, optimize performance, and free up your time to focus on what matters most—growing your business.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Weekly Email Reports</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Data-Driven Insights</h5>
+                                <p>Receive detailed weekly reports that provide actionable insights to help you make informed decisions and drive measurable results.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -42,8 +42,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Privacy You Can Trust</h5>
+                                <p class="mb-0">We respect your privacy. No personal data is collected, ensuring your business operations remain secure and confidential.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->
