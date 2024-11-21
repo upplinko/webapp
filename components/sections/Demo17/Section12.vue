@@ -44,7 +44,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Analytics</h6>
-                                <p class="p-sm">Gain valuable insights into your website traffic and automate reporting with powerful analytics tools.</p>
+                                <p class="p-sm">Gain valuable insights into your website traffic and automate reporting.</p>
                             </div>
                         </a>
                     </div>
@@ -95,7 +95,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">MailChimp</h6>
-                                <p class="p-sm">Run automated email marketing campaigns and engage your customers with personalized content.</p>
+                                <p class="p-sm">Automated email marketing campaigns and engage your customers.</p>
                             </div>
                         </a>
                     </div>
@@ -163,7 +163,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Drive</h6>
-                                <p class="p-sm">Store, share, and access your files from anywhere, with seamless cloud integration for easy data access.</p>
+                                <p class="p-sm">Store, share, and access your files globally, with seamless cloud integration for easy data access.</p>
                             </div>
                         </a>
                     </div>

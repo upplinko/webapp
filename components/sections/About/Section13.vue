@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Articles & Resources</h2>
+                        <h2 class="s-50 w-700">Insights & Resources</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Stay up to date with market trends and industry updates.</p>
+                        <p class="s-21 color--grey">Stay updated with industry trends, best practices, and business automation tips to drive your success.</p>
                     </div>
                 </div>
             </div>
@@ -23,17 +23,17 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--pink-400">Product News</span>
+                            <span class="post-tag color--pink-400">Business Growth</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Aliqum mullam porta blandit: tempor sapien and gravida</NuxtLink>
+                                <NuxtLink to="/single-post">How Automation Helps Streamline Your Business Operations</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Egestas luctus vitae augue and ipsum ultrice quisque in cursus lacus feugiat congue diam ultrice laoreet sagittis</p>
+                            <p>Explore how integrating automation solutions can reduce operational bottlenecks and boost efficiency across your business processes.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Helen J.</p></li>
+                                    <li><p class="p-sm w-500">By The Editorial Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
@@ -45,6 +45,7 @@
                     </div>
                 </div>
                 <!-- END BLOG POST #1 -->
+
                 <!-- BLOG POST #2 -->
                 <div class="col-md-6 col-lg-4">
                     <div id="bp-1-2" class="blog-post wow fadeInUp">
@@ -55,17 +56,17 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--green-400">Community</span>
+                            <span class="post-tag color--green-400">Digital Marketing</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Porttitor cursus fusce egestas CEO cursus at magna sapien suscipit and egestas ipsum</NuxtLink>
+                                <NuxtLink to="/single-post">The Importance of a Data-Driven Marketing Strategy</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Aliqum mullam ipsum vitae and blandit vitae tempor sapien and donec lipsum</p>
+                            <p>Learn how to leverage data analytics and insights to create targeted campaigns that drive measurable results.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Upplinko Team</p></li>
+                                    <li><p class="p-sm w-500">By The Editorial Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
@@ -77,6 +78,7 @@
                     </div>
                 </div>
                 <!-- END BLOG POST #2 -->
+
                 <!-- BLOG POST #3 -->
                 <div class="col-md-12 col-lg-4">
                     <div id="bp-1-3" class="blog-post wow fadeInUp">
@@ -87,17 +89,17 @@
                         <!-- BLOG POST TEXT -->
                         <div class="blog-post-txt">
                             <!-- Post Tag -->
-                            <span class="post-tag color--purple-400">Freelancer Tips</span>
+                            <span class="post-tag color--purple-400">Business Insights</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and Martex magna impedit</NuxtLink>
+                                <NuxtLink to="/single-post">Building a Strong Online Presence with SEO</NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue ultrice sagittis laoreet</p>
+                            <p>Discover the fundamental SEO techniques that can help your business rank higher on search engines and attract more organic traffic.</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Miranda Green</p></li>
+                                    <li><p class="p-sm w-500">By The Editorial Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
@@ -115,6 +117,8 @@
         <!-- End container -->
     </section>
     <!-- END BLOG-1 -->
+
     <!-- DIVIDER LINE -->
     <hr class="divider" />
 </template>
+
