@@ -1,124 +1,123 @@
 <template>
-    <section id="features-13" class="shape--bg shape--white-500 pt-100 features-section division">
+    <section id="features-11" class="py-100 features-section division">
         <div class="container">
-            <div class="row d-flex align-items-center">
-                <!-- FEATURES-13 WRAPPER -->
-                <div class="col-md-7 order-last order-md-2">
-                    <div class="fbox-13-wrapper wow fadeInRight">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <!-- FEATURE BOX #1 -->
-                                <div id="fb-12-1" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
-                                    <!-- Icon -->
-                                    <div class="fbox-ico ico-50">
-                                        <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-layers-1"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
-                                        </div>
-                                    </div>
-                                    <!-- End Icon -->
-                                    <!-- Text -->
-                                    <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">SEO Optimization</h5>
-                                        <p>Enhance your visibility and rankings with our tailored SEO strategies</p>
-                                    </div>
-                                </div>
-                                <!-- FEATURE BOX #2 -->
-                                <div id="fb-12-2" class="fbox-12 bg--white-100 block-shadow r-12">
-                                    <!-- Icon -->
-                                    <div class="fbox-ico ico-50">
-                                        <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-tutorial"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
-                                        </div>
-                                    </div>
-                                    <!-- End Icon -->
-                                    <!-- Text -->
-                                    <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Business Automation</h5>
-                                        <p>Automate your workflows for increased efficiency and less manual work</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <!-- FEATURE BOX #3 -->
-                                <div id="fb-12-3" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
-                                    <!-- Icon -->
-                                    <div class="fbox-ico ico-50">
-                                        <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-pay-per-click"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
-                                        </div>
-                                    </div>
-                                    <!-- End Icon -->
-                                    <!-- Text -->
-                                    <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Landing Pages</h5>
-                                        <p>Capture more leads with highly-converting landing pages</p>
-                                    </div>
-                                </div>
-                                <!-- FEATURE BOX #4 -->
-                                <div id="fb-12-4" class="fbox-12 bg--white-100 block-shadow r-12">
-                                    <!-- Icon -->
-                                    <div class="fbox-ico ico-50">
-                                        <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-taxes"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
-                                        </div>
-                                    </div>
-                                    <!-- End Icon -->
-                                    <!-- Text -->
-                                    <div class="fbox-txt">
-                                        <h5 class="s-19 w-700">Social Media Marketing</h5>
-                                        <p>Grow your brand with targeted and impactful social media strategies</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End row -->
-                </div>
-                <!-- END FEATURES-13 WRAPPER -->
-                <!-- TEXT BLOCK -->
-                <div class="col-md-5 order-first order-md-2">
-                    <div class="txt-block left-column wow fadeInLeft">
-                        <!-- Section ID -->
-                        <span class="section-id">Optimize Operations</span>
+            <!-- SECTION TITLE -->
+            <div class="row justify-content-center">
+                <div class="col-md-10 col-lg-9">
+                    <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Automate and Scale Your Business</h2>
+                        <h2 class="s-50 w-700">We make your business gain more revenue at a glance</h2>
                         <!-- Text -->
-                        <p>From streamlined workflows to increased lead generation, Upplinko provides automation tools to optimize your business operations and boost efficiency.</p>
-                        <!-- List -->
-                        <ul class="simple-list">
-                            <li class="list-item">
-                                <p>Automate repetitive tasks to save time and reduce errors</p>
-                            </li>
-                            <li class="list-item">
-                                <p class="mb-0">Leverage powerful landing pages and targeted marketing to convert leads faster</p>
-                            </li>
-                        </ul>
+                        <p class="s-21 color--grey">We help your business grow with effective strategies and creative solutions.</p>
                     </div>
                 </div>
-                <!-- END TEXT BLOCK -->
             </div>
-            <!-- End row -->
+            <!-- FEATURES-11 WRAPPER -->
+            <div class="fbox-wrapper">
+                <div class="row row-cols-1 row-cols-md-2 rows-3">
+                    <!-- FEATURE BOX #1 (SEO) -->
+                    <div class="col">
+                        <a href="/demo-13">
+                            <div class="fbox-11 fb-1 wow fadeInUp">
+                                <!-- Icon -->
+                                <div class="fbox-ico-wrap">
+                                    <div class="fbox-ico ico-50">
+                                        <div class="shape-ico">
+                                            <!-- Local Icon for SEO -->
+                                            <img src="assets/images/search-engine.png" alt="SEO Icon" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Icon -->
+                                <!-- Text -->
+                                <div class="fbox-txt">
+                                    <h6 class="s-22 w-700">SEO & SMM Services</h6>
+                                    <p>We offer comprehensive SEO and SMM services to improve your online presence and drive more traffic to your site.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- END FEATURE BOX #1 -->
+
+                    <!-- FEATURE BOX #2 (Business Automation) -->
+                    <div class="col">
+                        <a href="demo-24">
+                            <div class="fbox-11 fb-2 wow fadeInUp">
+                                <!-- Icon -->
+                                <div class="fbox-ico-wrap">
+                                    <div class="fbox-ico ico-50">
+                                        <div class="shape-ico">
+                                            <!-- Local Icon for Business Automation -->
+                                            <img src="assets/images/robot.png" alt="Business Automation Icon" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Icon -->
+                                <!-- Text -->
+                                <div class="fbox-txt">
+                                    <h6 class="s-22 w-700">Business Automation</h6>
+                                    <p>Automate sales processes, optimize communication, or create a seamless experience for your team, our services provide the technology and expertise to bring your business to the next level.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- END FEATURE BOX #2 -->
+
+                    <!-- FEATURE BOX #3 (Social Media Marketing) -->
+                    <div class="col">
+                        <a href="demo-23">
+                            <div class="fbox-11 fb-3 wow fadeInUp">
+                                <!-- Icon -->
+                                <div class="fbox-ico-wrap">
+                                    <div class="fbox-ico ico-50">
+                                        <div class="shape-ico">
+                                            <!-- Local Icon for Social Media Marketing -->
+                                            <img src="assets/images/robot.png" alt="Social Media Marketing Icon" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Icon -->
+                                <!-- Text -->
+                                <div class="fbox-txt">
+                                    <h6 class="s-22 w-700">Social Media Marketing</h6>
+                                    <p>Maximize your brand's presence on social media platforms and engage with your audience effectively.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- END FEATURE BOX #3 -->
+
+                    <!-- FEATURE BOX #4 (Landing Pages) -->
+                    <div class="col">
+                        <a href="demo-11">
+                            <div class="fbox-11 fb-4 wow fadeInUp">
+                                <!-- Icon -->
+                                <div class="fbox-ico-wrap">
+                                    <div class="fbox-ico ico-50">
+                                        <div class="shape-ico">
+                                            <!-- Local Icon for Landing Pages -->
+                                            <img src="assets/images/webpage.png" alt="Landing Pages Icon" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Icon -->
+                                <!-- Text -->
+                                <div class="fbox-txt">
+                                    <h6 class="s-22 w-700">Landing Pages</h6>
+                                    <p>We create highly-converting landing pages that drive user actions and boost your business goals.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- END FEATURE BOX #4 -->
+                </div>
+                <!-- End row -->
+            </div>
+            <!-- END FEATURES-11 WRAPPER -->
         </div>
         <!-- End container -->
     </section>
+    <!-- END FEATURES-11 -->
+    <!-- DIVIDER LINE -->
+    <hr class="divider" />
 </template>

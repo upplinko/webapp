@@ -22,8 +22,8 @@
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-graphics color--theme"></span>
+                                        <!-- Local Icon for Market Analysis -->
+                                        <img src="assets/images/statistic.png" alt="Market Analysis Icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -36,6 +36,7 @@
                         </div>
                     </div>
                     <!-- END FEATURE BOX #1 -->
+
                     <!-- FEATURE BOX #2 -->
                     <div class="col">
                         <div class="fbox-11 fb-2 wow fadeInUp">
@@ -43,8 +44,8 @@
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-idea color--theme"></span>
+                                        <!-- Local Icon for Automation Solutions -->
+                                        <img src="assets/images/robot.png" alt="Automation Solutions Icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -57,6 +58,7 @@
                         </div>
                     </div>
                     <!-- END FEATURE BOX #2 -->
+
                     <!-- FEATURE BOX #3 -->
                     <div class="col">
                         <div class="fbox-11 fb-3 wow fadeInUp">
@@ -64,8 +66,8 @@
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-graphic color--theme"></span>
+                                        <!-- Local Icon for Digital Marketing -->
+                                        <img src="assets/images/dm.png" alt="Digital Marketing Icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -78,6 +80,7 @@
                         </div>
                     </div>
                     <!-- END FEATURE BOX #3 -->
+
                     <!-- FEATURE BOX #4 -->
                     <div class="col">
                         <div class="fbox-11 fb-4 wow fadeInUp">
@@ -85,8 +88,30 @@
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-wireframe color--theme"></span>
+                                        <!-- Local Icon for SEO & SMM -->
+                                        <img src="assets/images/search-engine.png" alt="SEO & SMM Icon" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Icon -->
+                            <!-- Text -->
+                            <div class="fbox-txt">
+                                <h6 class="s-22 w-700">SEO & SMM Services</h6>
+                                <p>We offer comprehensive SEO and SMM services to improve your online presence and drive more traffic to your site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END FEATURE BOX #4 -->
+
+                    <!-- FEATURE BOX #5 -->
+                    <div class="col">
+                        <div class="fbox-11 fb-5 wow fadeInUp">
+                            <!-- Icon -->
+                            <div class="fbox-ico-wrap">
+                                <div class="fbox-ico ico-50">
+                                    <div class="shape-ico">
+                                        <!-- Local Icon for Web Development -->
+                                        <img src="assets/images/mobile-app.png" alt="Web Development Icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -98,16 +123,17 @@
                             </div>
                         </div>
                     </div>
-                    <!-- END FEATURE BOX #4 -->
-                    <!-- FEATURE BOX #5 -->
+                    <!-- END FEATURE BOX #5 -->
+
+                    <!-- FEATURE BOX #6 -->
                     <div class="col">
-                        <div class="fbox-11 fb-5 wow fadeInUp">
+                        <div class="fbox-11 fb-6 wow fadeInUp">
                             <!-- Icon -->
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-trophy color--theme"></span>
+                                        <!-- Local Icon for Brand Design -->
+                                        <img src="assets/images/brand.png" alt="Brand Design Icon" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -116,27 +142,6 @@
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Brand Design Identity</h6>
                                 <p>We help create strong brand identities that resonate with your target audience and elevate your business.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END FEATURE BOX #5 -->
-                    <!-- FEATURE BOX #6 -->
-                    <div class="col">
-                        <div class="fbox-11 fb-6 wow fadeInUp">
-                            <!-- Icon -->
-                            <div class="fbox-ico-wrap">
-                                <div class="fbox-ico ico-50">
-                                    <div class="shape-ico">
-                                        <!-- Original Icon -->
-                                        <span class="flaticon-search-engine-1 color--theme"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
-                            <div class="fbox-txt">
-                                <h6 class="s-22 w-700">SEO & SMM Services</h6>
-                                <p>We offer comprehensive SEO and SMM services to improve your online presence and drive more traffic to your site.</p>
                             </div>
                         </div>
                     </div>

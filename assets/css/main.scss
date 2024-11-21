@@ -10676,3 +10676,24 @@ body.theme--dark {
     transition: background 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transitions */
   }
   
+  .shape-ico {
+    position: relative;
+  
+    svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0; // Place behind
+    }
+  
+    img {
+      position: relative;
+      z-index: 1; // Place above
+      width: 55px; // Adjust icon size as needed
+      height: auto;
+    }
+  }
+
+  
