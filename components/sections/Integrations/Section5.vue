@@ -15,8 +15,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Simple, Secure & Intuitive</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Streamlined & Secure Solutions</h5>
+                                <p>Upplinko ensures that your workflows are optimized with simplicity and security in mind, allowing you to focus on growth and innovation.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Weekly Email Reports</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Data-Driven Insights</h5>
+                                <p>Receive weekly reports with actionable insights to track your performance and make informed decisions for your business.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -42,8 +42,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum n eque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Privacy Comes First</h5>
+                                <p class="mb-0">Your data is yours. Upplinko is committed to ensuring no personal data is collected, maintaining the highest privacy standards.</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->
@@ -53,7 +53,7 @@
                 <!-- IMAGE BLOCK -->
                 <div class="col-md-6 order-first order-md-2">
                     <div class="img-block wow fadeInLeft">
-                        <img class="img-fluid" src="/assets/images/tablet-01.png" alt="content-image" />
+                        <img class="img-fluid" src="/assets/images/tablet-01.png" alt="Secure and Optimized Workflows" />
                     </div>
                 </div>
             </div>

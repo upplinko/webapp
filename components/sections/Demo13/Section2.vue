@@ -11,13 +11,15 @@
                                 <!-- Digit -->
                                 <div class="statistic-digit">
                                     <h2 class="s-44 w-700">
-                                        <span class="count-element d-flex"> <ElementsCounterUp :start="0" :end="17" :duration="2000" /> k </span>
+                                        <span class="count-element d-flex">
+                                            <ElementsCounterUp :start="0" :end="17" :duration="2000" /> k
+                                        </span>
                                     </h2>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Happy Customers</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">Satisfied Clients</h5>
+                                    <p>Over 17,000 businesses trust Upplinko to enhance their online presence and achieve success.</p>
                                 </div>
                             </div>
                         </div>
@@ -30,13 +32,15 @@
                                 <!-- Digit -->
                                 <div class="statistic-digit">
                                     <h2 class="s-44 w-700">
-                                        <span class="count-element d-flex"> <ElementsCounterUp :start="0" :end="63" :duration="2000" /> k </span>
+                                        <span class="count-element d-flex">
+                                            <ElementsCounterUp :start="0" :end="63" :duration="2000" /> k
+                                        </span>
                                     </h2>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Positive Ratings</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">5-Star Reviews</h5>
+                                    <p>Our clients have rated us highly for delivering measurable results and unparalleled support.</p>
                                 </div>
                             </div>
                         </div>
@@ -49,13 +53,15 @@
                                 <!-- Digit -->
                                 <div class="statistic-digit">
                                     <h2 class="s-44 w-700">
-                                        <span class="count-element d-flex"> <ElementsCounterUp :start="0" :end="4" :duration="2000" /> /5 </span>
+                                        <span class="count-element d-flex">
+                                            <ElementsCounterUp :start="0" :end="4" :duration="2000" /> /5
+                                        </span>
                                     </h2>
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Rating</h5>
-                                    <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
+                                    <h5 class="s-19 w-700">Average Rating</h5>
+                                    <p>Upplinko’s commitment to excellence is reflected in our consistent 4+ star ratings.</p>
                                 </div>
                             </div>
                         </div>

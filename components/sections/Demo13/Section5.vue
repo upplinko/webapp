@@ -6,23 +6,26 @@
                 <!-- IMAGE BLOCK -->
                 <div class="col-md-6">
                     <div class="img-block left-column wow fadeInRight">
-                        <img class="img-fluid" src="/assets/images/img-02.png" alt="content-image" />
+                        <img class="img-fluid" src="/assets/images/img-02.png" alt="SEO Tools Integration" />
                     </div>
                 </div>
                 <!-- TEXT BLOCK -->
                 <div class="col-md-6">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Section ID -->
-                        <span class="section-id">Easy Integration</span>
+                        <span class="section-id">SEO Tools Integration</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Plug your essential tools in few clicks</h2>
+                        <h2 class="s-46 w-700">Easily Integrate Essential SEO Tools</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna undo aoreet primis</p>
+                                <p>Our integrations with leading SEO tools streamline the optimization process, helping you track performance, manage keywords, and refine your strategies effortlessly.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien a blandit</p>
+                                <p class="mb-0">Whether it's for keyword research, content optimization, or technical SEO, the right tools empower your business to stay ahead of the competition and achieve higher rankings.</p>
+                            </li>
+                            <li class="list-item">
+                                <p>With seamless integration, you can monitor your site's health, perform audits, and receive data-driven insights to continually enhance your SEO performance.</p>
                             </li>
                         </ul>
                     </div>

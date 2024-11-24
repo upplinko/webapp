@@ -12,19 +12,15 @@
                                     <!-- Icon -->
                                     <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-graphics"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
+                                            <!-- Local Image Icon -->
+                                            <img src="assets/images/kwreasearch.png" alt="Keyword Research" class="img-fluid" />
                                         </div>
                                     </div>
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Market Research</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Keyword Research</h5>
+                                        <p>Discover the right keywords to boost your website’s visibility and attract your target audience.</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
@@ -32,19 +28,15 @@
                                     <!-- Icon -->
                                     <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-idea"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
+                                            <!-- Local Image Icon -->
+                                            <img src="assets/images/cop.png" alt="Content Optimization" class="img-fluid" />
                                         </div>
                                     </div>
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">User Experience</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Content Optimization</h5>
+                                        <p>Enhance your website content to ensure it’s SEO-friendly and engaging for your audience.</p>
                                     </div>
                                 </div>
                             </div>
@@ -54,19 +46,15 @@
                                     <!-- Icon -->
                                     <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-graphic"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
+                                            <!-- Local Image Icon -->
+                                            <img src="assets/images/techseo.png" alt="Technical SEO" class="img-fluid" />
                                         </div>
                                     </div>
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Digital Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Technical SEO</h5>
+                                        <p>Optimize your website’s technical structure for better search engine crawling and indexing.</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #4 -->
@@ -74,19 +62,15 @@
                                     <!-- Icon -->
                                     <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-search-engine-1"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
+                                            <!-- Local Image Icon -->
+                                            <img src="assets/images/search-engine.png" alt="On-Page & Off-Page SEO" class="img-fluid" />
                                         </div>
                                     </div>
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">SEO Services</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">On-Page & Off-Page SEO</h5>
+                                        <p>Combine on-page and off-page strategies to maximize your website’s search engine performance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -103,14 +87,14 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">Smart solutions, real-time results</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis vitae dolor luctus placerat magna ligula and cursus vitae</p>
+                        <p>Unleash the full potential of your website with tailored SEO strategies designed to drive results and increase visibility.</p>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet diam purus sapien a dolor ociis ultrice ipsum aliquam congue a dolor cursus congue varius magnis</p>
+                                <p>Comprehensive keyword research to identify opportunities and gaps in your niche.</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
+                                <p class="mb-0">Streamlined optimization to boost rankings and drive sustainable growth.</p>
                             </li>
                         </ul>
                     </div>

@@ -9,24 +9,24 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Solution that grows with you</h5>
+                            <h5 class="s-24 w-700">Data-Driven SEO Solutions</h5>
                             <!-- Text -->
-                            <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                            <p>At Upplinko, we make SEO decisions based on data and analytics, ensuring that every step we take is backed by actionable insights. Our data-driven approach helps identify opportunities, track performance, and refine strategies for optimal results.</p>
                         </div>
                         <!-- END TEXT BOX -->
                         <!-- TEXT BOX -->
                         <div class="txt-box mb-0">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Connect your data sources</h5>
+                            <h5 class="s-24 w-700">Connect Your Data Sources</h5>
                             <!-- Text -->
-                            <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
+                            <p>We integrate various data sources to build a clear picture of your online presence. By analyzing metrics such as traffic, conversions, and user behavior, we craft SEO strategies that align with your business goals and continuously optimize your website for better performance.</p>
                             <!-- List -->
                             <ul class="simple-list">
                                 <li class="list-item">
-                                    <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
+                                    <p>Utilizing traffic data to identify high-performing keywords and content.</p>
                                 </li>
                                 <li class="list-item">
-                                    <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                    <p class="mb-0">Leveraging user behavior and conversion data to improve website usability and SEO rankings.</p>
                                 </li>
                             </ul>
                         </div>

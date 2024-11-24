@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-80">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Everything in One Place</h2>
+                        <h2 class="s-52 w-700">Seamless Solutions in One Place</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Simplify your business processes with integrated tools and actionable insights.</p>
                     </div>
                 </div>
             </div>
@@ -20,12 +20,12 @@
                         <div class="fbox-2 fb-1 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_01.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/f_01.png" alt="Intuitive Dashboard" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <p>Gain control and visibility with a centralized dashboard tailored to your operations.</p>
                             </div>
                         </div>
                     </div>
@@ -35,12 +35,12 @@
                         <div class="fbox-2 fb-2 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_05.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/f_05.png" alt="Effortless Integration" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Effortless Integration</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <p>Connect the tools you rely on and create workflows that eliminate inefficiencies.</p>
                             </div>
                         </div>
                     </div>
@@ -50,12 +50,12 @@
                         <div class="fbox-2 fb-3 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_02.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/f_02.png" alt="Real-time Analytics" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Real-time Analytics</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <p>Make data-driven decisions with actionable insights and live performance metrics.</p>
                             </div>
                         </div>
                     </div>

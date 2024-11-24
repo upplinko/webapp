@@ -47,7 +47,7 @@
 
 <!-- Column 3: Digital Marketing -->
 <ul class="col-md-12 col-lg-3 link-list">
-    <li><NuxtLink to="#">SEO</NuxtLink></li>
+    <li><NuxtLink to="/demo-13">SEO</NuxtLink></li>
     <li><NuxtLink to="#">Content Marketing</NuxtLink></li>
     <li><NuxtLink to="#">PPC Advertising</NuxtLink></li>
     <li><NuxtLink to="#">Social Media Marketing</NuxtLink></li>

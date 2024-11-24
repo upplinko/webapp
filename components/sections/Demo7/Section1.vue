@@ -11,18 +11,37 @@
                             <!-- Text -->
                             <p class="p-lg">At Upplinko, we specialize in crafting creative web services and strategies that drive results and elevate your brand.</p>
                             <!-- HERO QUICK FORM -->
-                            <form name="quickform" class="quick-form form-shadow form-half mt-35">
+                            <form
+                                id="ctaForm"
+                                name="quickform"
+                                class="quick-form form-shadow form-half mt-35"
+                                @submit.prevent="submitForm"
+                            >
                                 <!-- Caption -->
-                                <p class="p-sm text-muted mb-3">Get upto 35% off on your first order.</p>
+                                <p class="p-sm text-muted mb-3">Results That Matter, Starting Today! 35% Off for First-Time Clients.</p>
                                 <!-- Form Inputs -->
                                 <div class="input-group">
-                                    <input type="email" name="email" class="form-control email r-06" placeholder="Your email address" autocomplete="off" required />
+                                    <input
+                                        v-model="formData.email"
+                                        type="email"
+                                        name="email"
+                                        class="form-control email r-06"
+                                        placeholder="Your email address"
+                                        autocomplete="off"
+                                        required
+                                    />
                                     <span class="input-group-btn form-btn">
-                                        <button type="submit" class="btn r-06 btn--theme hover--theme submit">Get Started</button>
+                                        <button type="submit" class="btn r-06 btn--theme hover--theme submit">Let's Go</button>
                                     </span>
                                 </div>
-                                <!-- Form Message -->
-                                <div class="quick-form-msg"><span class="loading"></span></div>
+                                <!-- Success Message -->
+                                <div v-if="successMessage" class="alert alert-success mt-3" role="alert">
+                                    {{ successMessage }}
+                                </div>
+                                <!-- Error Message -->
+                                <div v-if="errorMessage" class="alert alert-danger mt-3" role="alert">
+                                    {{ errorMessage }}
+                                </div>
                             </form>
                             <!-- END HERO QUICK FORM -->
                             <!-- Text -->
@@ -44,3 +63,55 @@
         <!-- End hero-overlay -->
     </section>
 </template>
+
+<script>
+export default {
+    data() {
+        return {
+            formData: {
+                email: ""
+            },
+            successMessage: "",
+            errorMessage: ""
+        };
+    },
+    methods: {
+        async submitForm() {
+            const googleScriptUrl = "https://script.google.com/macros/s/AKfycbyqqqpZKJa6D70a9YXorQo8PDGGdgz9K8hwhUlEaqQJZwu6ewhDRRVtl6iGK7DLjikqdw/exec"; // Replace with your Google Apps Script URL
+
+            try {
+                const response = await fetch(googleScriptUrl, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(this.formData)
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    this.successMessage = "Thank you! Your submission was successful.";
+                    this.errorMessage = "";
+                    this.formData.email = ""; // Clear the form
+                } else {
+                    this.errorMessage = "Something went wrong. Please try again.";
+                    this.successMessage = "";
+                }
+            } catch (error) {
+                console.error("Error:", error);
+                this.errorMessage = "Failed to submit the form. Please try again later.";
+                this.successMessage = "";
+            }
+        }
+    }
+};
+</script>
+
+<style scoped>
+/* Add custom styles if needed */
+.alert {
+    font-size: 14px;
+    font-weight: 500;
+}
+</style>
